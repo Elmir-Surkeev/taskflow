@@ -12,21 +12,6 @@ public class TaskflowApplication {
 
 }
 
-//
-//com.yourname.taskmanager
-//├── controller
-//├── service
-//├── repository
-//├── domain
-//│   ├── entity
-//│   └── enums
-//├── dto
-//│   ├── request
-//│   └── response
-//├── exception
-//├── config
-//└── mapper
-
 
 
 
